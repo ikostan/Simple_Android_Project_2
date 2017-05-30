@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Week 3: Additional Lab</string>
+    <string name="txt_header">Food Order</string>
+    <string name="app_header_description">App header</string>
+    <string name="txt_total_cost"><![CDATA[$00.00]]></string>
+    <string name="txt_calculate">Calculate</string>
+    <string name="txt_crab">Crab</string>
+    <string name="txt_pay_by_cash">Pay by Cash?</string>
+    <string name="txt_steak">Steak</string>
+    <string name="txt_textview">$$$</string>
+    <string name="txt_total">Total:</string>
+    <string name="txt_water">Water</string>
+
+    <string-array name="mealSize">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+
+</resources>
